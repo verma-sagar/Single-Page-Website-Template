@@ -15,7 +15,6 @@
 </head>
 <body>
 <!-- Header -->
-<>
 <!-- Nav Bar -->
 <nav class="navbar navbar-expand-sm navbar-absolute navbar-dark">
 <!-- Logo -->
