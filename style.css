@@ -1,0 +1,16 @@
+body
+{
+  background-image: url("images/bg.jpg");
+  background-repeat: repeat;
+}
+#footer {
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  text-align: center;
+}
+#about
+{
+  color: white;
+}
