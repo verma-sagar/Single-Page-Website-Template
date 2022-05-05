@@ -7,5 +7,3 @@ Some of the features-
 2.Slider with Controls
 3.Responisve
 4.Footer
-
-Deployed on Heroku - https://myra-saffron.herokuapp.com/
